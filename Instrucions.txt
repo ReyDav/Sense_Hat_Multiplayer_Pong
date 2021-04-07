@@ -1,0 +1,16 @@
+// Setup:
+1) If you are the hoster make sure to put the server IP address (your computer's IP address) on the server variable located in the server.py file
+2) Make sure to put the same IP address on host variable located in the network.py file
+3) Execute server.py file
+
+
+// Run the program on first player sense hat:
+1) execute run_client_1.py file
+
+
+// Run the program on second player sense hat:
+1) execute run_client_2.py file
+
+
+// Test the program with a physical sense hat and the raspbian os built-in emulator:
+1) execute test_run.py file
