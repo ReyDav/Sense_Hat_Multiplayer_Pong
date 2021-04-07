@@ -1,4 +1,4 @@
-# Sense_Hat_Multiplayer_Pong
+# Sense Hat Multiplayer Pong
 
 # Setup:
 1) If you are the hoster make sure to put the server IP address (your computer's IP address) on the server variable located in the server.py file
